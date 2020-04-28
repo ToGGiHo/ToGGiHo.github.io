@@ -1,0 +1,38 @@
+h1{
+    background-color: #232323;
+    color: #ffffff;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Sen', sans-serif;
+    font-size: 400%;
+}
+.myButton {
+	box-shadow: 0px 4px 0px 0px #b3b3b3;
+	background:linear-gradient(to bottom, #232323 5%, #000000 100%);
+	background-color:#232323;
+	border-radius:42px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:22px;
+    padding:10px 70px;
+    font-family: 'Sen', sans-serif;
+    text-decoration:none;
+    text-align: center;
+    position: relative;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #000000 5%, #232323 100%);
+	background-color:#000000;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
