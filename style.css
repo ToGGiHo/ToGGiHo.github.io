@@ -10,7 +10,6 @@ h1::selection{
 }
 .myButton {
 	background-color:#232323;
-	border:1px solid #000000;
     cursor:pointer;
     color:#ffffff;
 	font-family: 'Sen', sans-serif;
@@ -18,7 +17,6 @@ h1::selection{
 	padding:11px 31px;
     text-decoration:none;
     margin-top: 10px;
-    margin-left: 10px;
 }
 .myButton:hover {
 	background-color:#000000;
