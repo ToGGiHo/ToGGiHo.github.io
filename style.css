@@ -19,9 +19,6 @@ h1::selection{
     border-color: #232323;
     outline: none;
 }
-.myButton:focus {
-    outline: none;
-}
 .myButton:hover {
 	background-color:#000000;
 }
