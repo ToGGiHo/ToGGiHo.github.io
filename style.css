@@ -16,13 +16,10 @@ h1::selection{
 	font-size:23px;
 	padding:11px 31px;
     text-decoration:none;
-    margin-top: 10px;
+    border-color: #232323;
 }
 .myButton:hover {
 	background-color:#000000;
-}
-.myButton:active {
-	top:1px;
 }
 .center-div{
     position: absolute;
